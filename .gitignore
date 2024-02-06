@@ -1,16 +1,16 @@
-# Avoid accidental upload of the Sketch and Figma design files
-#####################################################
-## Please do not remove lines 5 and 6 - thanks! 🙂 ##
-#####################################################
-*.sketch
-*.fig
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-# Avoid accidental XD upload if you convert the design file
-###############################################
-## Please do not remove line 12 - thanks! 🙂 ##
-###############################################
-*.xd
+# production
+/build
 
-# Avoid your project being littered with annoying .DS_Store files!
+# misc
 .DS_Store
-.prettierignore
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
