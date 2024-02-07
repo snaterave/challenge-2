@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - QR code component
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H?ref=challenge-roadmap).
 ## Table of contents
