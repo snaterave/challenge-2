@@ -1,7 +1,7 @@
 {
-  "name": "tailwindcss-challenge-1",
+  "name": "tailwindcss-challenge-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "QR code component",
   "main": "index.js",
   "scripts": {
     "build": "npx tailwindcss-cli@latest build css/tailwind.css -o public/css/style.css"
