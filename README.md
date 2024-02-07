@@ -34,7 +34,7 @@ This blog preview card project, I tackled the challenge of crafting a visually a
 ### Links
 
 - Github Repository: [Click here](https://github.com/snaterave/challenge-2)
-- Live Site URL: [Click here](https://65c17e7af9a3830d4c5b85e7--friendly-sawine-0725d3.netlify.app/)
+- Live Site URL: [Click here](https://65c2e4eb5cd9d51b594e94c9--strong-pixie-c1bcb6.netlify.app/)
 
 
 
